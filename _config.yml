@@ -70,10 +70,10 @@ app_description_color                     : "#000000"
 feature_title_color                       : "#000000"
 feature_text_color                        : "#666666"
 
-feature_icons_foreground_color            : "#ffffff"
+feature_icons_foreground_color            : "#f5f5f5"
 feature_icons_background_color            : "#b31b1b"
 
-social_icons_foreground_color             : "#ffffff"
+social_icons_foreground_color             : "#f5f5f5"
 social_icons_background_color             : "#b31b1b"
 
 footer_text_color                         : "#000000"
