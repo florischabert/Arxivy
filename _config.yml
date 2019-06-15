@@ -67,14 +67,14 @@ app_title_color                           : "#b31b1b"
 app_price_color                           : "#b31b1b"
 app_description_color                     : "#b31b1b"
 
-feature_title_color                       : "#ffffff"
+feature_title_color                       : "#b31b1b"
 feature_text_color                        : "#b31b1b"
 
-feature_icons_foreground_color            : "#ffffff"
-feature_icons_background_color            : "#b31b1b"
+feature_icons_foreground_color            : "#b31b1b"
+feature_icons_background_color            : "#ffffff"
 
-social_icons_foreground_color             : "#ffffff"
-social_icons_background_color             : "#b31b1b"
+social_icons_foreground_color             : "#b31b1b"
+social_icons_background_color             : "#ffffff"
 
 footer_text_color                         : "#666666"
 
