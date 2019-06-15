@@ -54,7 +54,7 @@ topbar_transparency                       : 1
 topbar_title_color                        : "#ffffff"
 
 cover_image                               :                     # Replace with alternative image path or image URL.
-cover_overlay_color                       : "#ffffff"
+cover_overlay_color                       : "#666666"
 cover_overlay_transparency                : 1
 
 device_color                              : black                                     # Set to: blue, black, yellow, coral or white.
@@ -64,16 +64,16 @@ body_background_color                     : "#ffffff"
 link_color                                : "#b31b1b"
 
 app_title_color                           : "#000000"
-app_price_color                           : "#000000"
+app_price_color                           : "#666666"
 app_description_color                     : "#000000"
 
 feature_title_color                       : "#000000"
 feature_text_color                        : "#666666"
 
-feature_icons_foreground_color            : "#b31b1b"
+feature_icons_foreground_color            : "#666666"
 feature_icons_background_color            : "#b31b1b"
 
-social_icons_foreground_color             : "#b31b1b"
+social_icons_foreground_color             : "#666666"
 social_icons_background_color             : "#b31b1b"
 
 footer_text_color                         : "#000000"
